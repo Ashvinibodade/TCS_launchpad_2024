@@ -1,0 +1,9 @@
+Milky|Cardio|500
+Sai|heart|1000
+Satish|eye|500
+Vivek|dentist|5000
+Murli|dermo|500
+Rupak|rmp|100
+Saketha|cardio|500
+Pavan|kids|500
+Nag|kids|500
